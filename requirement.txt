@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+stix2
+networkx
+pyvis
+reportlab
+python-multipart

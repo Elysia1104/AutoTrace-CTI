@@ -1,6 +1,7 @@
 import os
 import re
 import json
+import tempfile
 import networkx as nx
 from stix2 import Indicator
 from pyvis.network import Network
@@ -19,8 +20,7 @@ from reportlab.lib import colors
 
 app = FastAPI(title="AutoTrace-CTI Incident Response Engine")
 
-os.makedirs("D:\\AutoTrace-CTI\\output", exist_ok=True)
-
+TMP_DIR = tempfile.gettempdir()
 latest_correlation_hits = []
 
 MITRE_MAPPING = {
@@ -272,9 +272,6 @@ def generate_pdf_report(hits, output_pdf_path):
     doc.build(story)
 
 
-generate_pdf_report([], "D:\\AutoTrace-CTI\\output\\forensic_report.pdf")
-
-
 @app.get("/", response_class=HTMLResponse)
 async def home(request: Request):
     html_content = """
@@ -327,12 +324,15 @@ async def analyze(request: Request, cti_text: str = Form(...)):
     extracted_iocs = extract_all_iocs(cti_text)
     stix_iocs = build_stix_indicators(extracted_iocs)
 
-    hits, graph = correlate_and_build_graph(
-        stix_iocs,
-        "D:\\AutoTrace-CTI\\data\\samples\\network_artifacts.json",
-        "D:\\AutoTrace-CTI\\data\\samples\\process_artifacts.json"
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    net_file = os.path.join(
+        base_dir, "data", "samples", "network_artifacts.json"
+    )
+    proc_file = os.path.join(
+        base_dir, "data", "samples", "process_artifacts.json"
     )
 
+    hits, graph = correlate_and_build_graph(stix_iocs, net_file, proc_file)
     latest_correlation_hits = hits
 
     net = Network(height="460px", width="100%", directed=True)
@@ -343,8 +343,10 @@ async def analyze(request: Request, cti_text: str = Form(...)):
       "layout": { "randomSeed": 42 }
     }
     """)
-    net.write_html("D:\\AutoTrace-CTI\\output\\attack_graph.html")
-    pdf_out = "D:\\AutoTrace-CTI\\output\\forensic_report.pdf"
+    graph_out = os.path.join(TMP_DIR, "attack_graph.html")
+    net.write_html(graph_out)
+
+    pdf_out = os.path.join(TMP_DIR, "forensic_report.pdf")
     generate_pdf_report(latest_correlation_hits, pdf_out)
 
     return await home(request)
@@ -352,7 +354,7 @@ async def analyze(request: Request, cti_text: str = Form(...)):
 
 @app.get("/graph", response_class=HTMLResponse)
 async def get_graph():
-    graph_path = "D:\\AutoTrace-CTI\\output\\attack_graph.html"
+    graph_path = os.path.join(TMP_DIR, "attack_graph.html")
     if os.path.exists(graph_path):
         with open(graph_path, "r", encoding="utf-8") as f:
             return HTMLResponse(content=f.read())
@@ -363,7 +365,7 @@ async def get_graph():
 
 @app.get("/download-pdf")
 async def download_pdf():
-    pdf_path = "D:\\AutoTrace-CTI\\output\\forensic_report.pdf"
+    pdf_path = os.path.join(TMP_DIR, "forensic_report.pdf")
     generate_pdf_report(latest_correlation_hits, pdf_path)
     if os.path.exists(pdf_path):
         header_val = "inline; filename=Forensic_Threat_Report.pdf"
