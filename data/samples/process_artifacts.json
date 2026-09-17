@@ -1,0 +1,1700 @@
+﻿[
+    {
+        "Id":  12556,
+        "ProcessName":  "AcPowerNotification",
+        "Path":  null,
+        "CPU":  60.46875
+    },
+    {
+        "Id":  5528,
+        "ProcessName":  "AgentService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  8900,
+        "ProcessName":  "AggregatorHost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3752,
+        "ProcessName":  "AppActions",
+        "Path":  "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\AppActions.exe",
+        "CPU":  1.1875
+    },
+    {
+        "Id":  14096,
+        "ProcessName":  "ApplicationFrameHost",
+        "Path":  "C:\\WINDOWS\\system32\\ApplicationFrameHost.exe",
+        "CPU":  0.765625
+    },
+    {
+        "Id":  17732,
+        "ProcessName":  "ArmouryCrate",
+        "Path":  "C:\\Program Files\\WindowsApps\\B9ECED6F.ArmouryCrate_6.5.14.0_x64__qmba6cd70vzyy\\ArmouryCrate.exe",
+        "CPU":  0.46875
+    },
+    {
+        "Id":  5848,
+        "ProcessName":  "ArmouryCrate.Service",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  10360,
+        "ProcessName":  "ArmouryCrate.UserSessionHelper",
+        "Path":  null,
+        "CPU":  159.109375
+    },
+    {
+        "Id":  5820,
+        "ProcessName":  "ArmouryCrateControlInterface",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  15748,
+        "ProcessName":  "ArmourySocketServer",
+        "Path":  null,
+        "CPU":  0.46875
+    },
+    {
+        "Id":  13556,
+        "ProcessName":  "ArmourySwAgent",
+        "Path":  null,
+        "CPU":  1.609375
+    },
+    {
+        "Id":  3852,
+        "ProcessName":  "AsHotplugCtrl",
+        "Path":  null,
+        "CPU":  0.28125
+    },
+    {
+        "Id":  12520,
+        "ProcessName":  "AsMonitorControl",
+        "Path":  null,
+        "CPU":  0
+    },
+    {
+        "Id":  11500,
+        "ProcessName":  "asus_framework",
+        "Path":  null,
+        "CPU":  2.546875
+    },
+    {
+        "Id":  17456,
+        "ProcessName":  "asus_framework",
+        "Path":  null,
+        "CPU":  1.171875
+    },
+    {
+        "Id":  19392,
+        "ProcessName":  "asus_framework",
+        "Path":  "C:\\Program Files (x86)\\ASUS\\ArmouryDevice\\asus_framework.exe",
+        "CPU":  0.609375
+    },
+    {
+        "Id":  19576,
+        "ProcessName":  "asus_framework",
+        "Path":  null,
+        "CPU":  12.09375
+    },
+    {
+        "Id":  5900,
+        "ProcessName":  "AsusAppService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3508,
+        "ProcessName":  "AsusCertService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4904,
+        "ProcessName":  "AsusOptimization",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5480,
+        "ProcessName":  "AsusOptimizationStartupTask",
+        "Path":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\asussci2.inf_amd64_ec0a7aca8834d5bc\\ASUSOptimization\\AsusOptimizationStartupTask.exe",
+        "CPU":  0.109375
+    },
+    {
+        "Id":  22276,
+        "ProcessName":  "AsusOSD",
+        "Path":  null,
+        "CPU":  0.59375
+    },
+    {
+        "Id":  5872,
+        "ProcessName":  "AsusPTPService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  12080,
+        "ProcessName":  "ASUSSmartDisplayControl",
+        "Path":  null,
+        "CPU":  0.203125
+    },
+    {
+        "Id":  5928,
+        "ProcessName":  "AsusSoftwareManager",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  27100,
+        "ProcessName":  "AsusSoftwareManagerAgent",
+        "Path":  null,
+        "CPU":  2.3125
+    },
+    {
+        "Id":  5952,
+        "ProcessName":  "AsusSwitch",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5984,
+        "ProcessName":  "AsusSystemAnalysis",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5992,
+        "ProcessName":  "AsusSystemDiagnosis",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5916,
+        "ProcessName":  "AuraWallpaperService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  25168,
+        "ProcessName":  "backgroundTaskHost",
+        "Path":  "C:\\WINDOWS\\system32\\backgroundTaskHost.exe",
+        "CPU":  0.4375
+    },
+    {
+        "Id":  18492,
+        "ProcessName":  "browser_assistant",
+        "Path":  null,
+        "CPU":  0.140625
+    },
+    {
+        "Id":  20652,
+        "ProcessName":  "browser_assistant",
+        "Path":  null,
+        "CPU":  1.4375
+    },
+    {
+        "Id":  1800,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  0.3125
+    },
+    {
+        "Id":  2064,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  55.96875
+    },
+    {
+        "Id":  2484,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  294.96875
+    },
+    {
+        "Id":  2664,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  3588.90625
+    },
+    {
+        "Id":  4276,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  206.390625
+    },
+    {
+        "Id":  4820,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  11.765625
+    },
+    {
+        "Id":  4952,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  2575.609375
+    },
+    {
+        "Id":  6064,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  0.15625
+    },
+    {
+        "Id":  6352,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  6.078125
+    },
+    {
+        "Id":  9512,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  7.1875
+    },
+    {
+        "Id":  13560,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  0.296875
+    },
+    {
+        "Id":  14984,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  830.609375
+    },
+    {
+        "Id":  20052,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  13.375
+    },
+    {
+        "Id":  22956,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  79.21875
+    },
+    {
+        "Id":  23960,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  3.09375
+    },
+    {
+        "Id":  24040,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  22.609375
+    },
+    {
+        "Id":  24220,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  6.84375
+    },
+    {
+        "Id":  24840,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  0.34375
+    },
+    {
+        "Id":  26080,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  655.96875
+    },
+    {
+        "Id":  27016,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  0.25
+    },
+    {
+        "Id":  28980,
+        "ProcessName":  "chrome",
+        "Path":  "C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe",
+        "CPU":  0.46875
+    },
+    {
+        "Id":  3596,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  2.578125
+    },
+    {
+        "Id":  7480,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  7.140625
+    },
+    {
+        "Id":  9808,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  1.359375
+    },
+    {
+        "Id":  11760,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  0.171875
+    },
+    {
+        "Id":  11980,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  5.96875
+    },
+    {
+        "Id":  12900,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  25.90625
+    },
+    {
+        "Id":  15616,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  7.84375
+    },
+    {
+        "Id":  17016,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  0.0625
+    },
+    {
+        "Id":  19808,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  2.828125
+    },
+    {
+        "Id":  22060,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  51.796875
+    },
+    {
+        "Id":  27520,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  5.28125
+    },
+    {
+        "Id":  28988,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  1
+    },
+    {
+        "Id":  29560,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  32.265625
+    },
+    {
+        "Id":  29660,
+        "ProcessName":  "Code",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Programs\\Microsoft VS Code\\Code.exe",
+        "CPU":  89.890625
+    },
+    {
+        "Id":  22552,
+        "ProcessName":  "CodeSetup-stable-7debcd0e2acdea1c52de81bf9ee1620444407dda",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Temp\\vscode-stable-user-x64\\CodeSetup-stable-7debcd0e2acdea1c52de81bf9ee1620444407dda.exe",
+        "CPU":  0.21875
+    },
+    {
+        "Id":  23144,
+        "ProcessName":  "CodeSetup-stable-7debcd0e2acdea1c52de81bf9ee1620444407dda.tmp",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\Temp\\is-GSQJG.tmp\\CodeSetup-stable-7debcd0e2acdea1c52de81bf9ee1620444407dda.tmp",
+        "CPU":  51.84375
+    },
+    {
+        "Id":  10368,
+        "ProcessName":  "conhost",
+        "Path":  null,
+        "CPU":  0.09375
+    },
+    {
+        "Id":  14944,
+        "ProcessName":  "conhost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  14632,
+        "ProcessName":  "CrossDeviceResume",
+        "Path":  "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\CrossDeviceResume.exe",
+        "CPU":  1.359375
+    },
+    {
+        "Id":  5796,
+        "ProcessName":  "CrossDeviceService",
+        "Path":  "C:\\Program Files\\WindowsApps\\MicrosoftWindows.CrossDevice_1.26072.116.0_x64__cw5n1h2txyewy\\CrossDeviceService.exe",
+        "CPU":  3.578125
+    },
+    {
+        "Id":  1248,
+        "ProcessName":  "csrss",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1372,
+        "ProcessName":  "csrss",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  18752,
+        "ProcessName":  "ctfmon",
+        "Path":  null,
+        "CPU":  22.25
+    },
+    {
+        "Id":  28368,
+        "ProcessName":  "dasHost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6016,
+        "ProcessName":  "DAX3API",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  8224,
+        "ProcessName":  "DAX3API",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  18084,
+        "ProcessName":  "dllhost",
+        "Path":  "C:\\WINDOWS\\system32\\DllHost.exe",
+        "CPU":  0.03125
+    },
+    {
+        "Id":  2016,
+        "ProcessName":  "dwm",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  14304,
+        "ProcessName":  "explorer",
+        "Path":  "C:\\WINDOWS\\Explorer.EXE",
+        "CPU":  83.1875
+    },
+    {
+        "Id":  1688,
+        "ProcessName":  "fontdrvhost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1700,
+        "ProcessName":  "fontdrvhost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6008,
+        "ProcessName":  "GameInputRedistService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6792,
+        "ProcessName":  "GameInputRedistService",
+        "Path":  "C:\\Program Files\\Microsoft GameInput\\x64\\GameInputRedistService.exe",
+        "CPU":  0.15625
+    },
+    {
+        "Id":  21224,
+        "ProcessName":  "GameInputSvc",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  21256,
+        "ProcessName":  "GameInputSvc",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6024,
+        "ProcessName":  "GameSDK",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  11568,
+        "ProcessName":  "gamingservices",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  11504,
+        "ProcessName":  "gamingservicesnet",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  0,
+        "ProcessName":  "Idle",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  13632,
+        "ProcessName":  "Intel_PIE_Service",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5944,
+        "ProcessName":  "IntelAudioService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2616,
+        "ProcessName":  "IntelCpHDCPSvc",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  11512,
+        "ProcessName":  "IntelGraphicsSoftware.Service",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  9652,
+        "ProcessName":  "ipf_helper",
+        "Path":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\ipf_cpu.inf_amd64_15575ddcbffc1fc6\\ipf_helper.exe",
+        "CPU":  24.84375
+    },
+    {
+        "Id":  6224,
+        "ProcessName":  "ipf_uf",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5380,
+        "ProcessName":  "ipfsvc",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6044,
+        "ProcessName":  "jhi_service",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6128,
+        "ProcessName":  "LightingService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1520,
+        "ProcessName":  "LsaIso",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1532,
+        "ProcessName":  "lsass",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  15288,
+        "ProcessName":  "MathWorksServiceHost",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\MathWorks\\ServiceHost\\v2026.9.0.2\\bin\\win64\\MathWorksServiceHost.exe",
+        "CPU":  49.3125
+    },
+    {
+        "Id":  22432,
+        "ProcessName":  "MathWorksServiceHost-Monitor",
+        "Path":  "C:\\Users\\rishi\\AppData\\Local\\MathWorks\\ServiceHost\\v2026.9.0.2\\bin\\win64\\MathWorksServiceHost-Monitor.exe",
+        "CPU":  42
+    },
+    {
+        "Id":  3804,
+        "ProcessName":  "Memory Compression",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  19320,
+        "ProcessName":  "MicrosoftStartFeedProvider",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.StartExperiencesApp_1.380.2.0_x64__8wekyb3d8bbwe\\MicrosoftStartFeedProvider\\MicrosoftStartFeedProvider.exe",
+        "CPU":  5.796875
+    },
+    {
+        "Id":  13492,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  30.453125
+    },
+    {
+        "Id":  14836,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  0.21875
+    },
+    {
+        "Id":  17464,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  6.671875
+    },
+    {
+        "Id":  18168,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  0.125
+    },
+    {
+        "Id":  18796,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  1.953125
+    },
+    {
+        "Id":  18820,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  2.859375
+    },
+    {
+        "Id":  18964,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  0.265625
+    },
+    {
+        "Id":  19280,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  6.28125
+    },
+    {
+        "Id":  20500,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  0.25
+    },
+    {
+        "Id":  21796,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  15.578125
+    },
+    {
+        "Id":  21808,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  6.078125
+    },
+    {
+        "Id":  26976,
+        "ProcessName":  "msedgewebview2",
+        "Path":  "C:\\Program Files (x86)\\Microsoft\\EdgeWebView\\Application\\153.0.4234.32\\msedgewebview2.exe",
+        "CPU":  59.5
+    },
+    {
+        "Id":  12616,
+        "ProcessName":  "NgcIso",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3456,
+        "ProcessName":  "nvcontainer",
+        "Path":  "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+        "CPU":  87.515625
+    },
+    {
+        "Id":  6100,
+        "ProcessName":  "nvcontainer",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  8540,
+        "ProcessName":  "nvcontainer",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  8844,
+        "ProcessName":  "nvcontainer",
+        "Path":  "C:\\Program Files\\NVIDIA Corporation\\NvContainer\\nvcontainer.exe",
+        "CPU":  11.265625
+    },
+    {
+        "Id":  3396,
+        "ProcessName":  "NVDisplay.Container",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4012,
+        "ProcessName":  "NVDisplay.Container",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  10132,
+        "ProcessName":  "NVIDIA Overlay",
+        "Path":  "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\CEF\\NVIDIA Overlay.exe",
+        "CPU":  35.5625
+    },
+    {
+        "Id":  10264,
+        "ProcessName":  "NVIDIA Overlay",
+        "Path":  "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\CEF\\NVIDIA Overlay.exe",
+        "CPU":  32.640625
+    },
+    {
+        "Id":  10304,
+        "ProcessName":  "NVIDIA Overlay",
+        "Path":  "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\CEF\\NVIDIA Overlay.exe",
+        "CPU":  1.078125
+    },
+    {
+        "Id":  10336,
+        "ProcessName":  "NVIDIA Overlay",
+        "Path":  "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\CEF\\NVIDIA Overlay.exe",
+        "CPU":  5.46875
+    },
+    {
+        "Id":  12916,
+        "ProcessName":  "NVIDIA Overlay",
+        "Path":  "C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\CEF\\NVIDIA Overlay.exe",
+        "CPU":  8.828125
+    },
+    {
+        "Id":  10112,
+        "ProcessName":  "nvsphelper64",
+        "Path":  null,
+        "CPU":  57.625
+    },
+    {
+        "Id":  6088,
+        "ProcessName":  "OfficeClickToRun",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  27808,
+        "ProcessName":  "OneDrive.Sync.Service",
+        "Path":  "C:\\Program Files\\Microsoft OneDrive\\26.158.0816.0003\\OneDrive.Sync.Service.exe",
+        "CPU":  32.234375
+    },
+    {
+        "Id":  20936,
+        "ProcessName":  "OpenConsole",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\\OpenConsole.exe",
+        "CPU":  0.859375
+    },
+    {
+        "Id":  18644,
+        "ProcessName":  "PhoneExperienceHost",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.YourPhone_1.26072.255.0_x64__8wekyb3d8bbwe\\PhoneExperienceHost.exe",
+        "CPU":  10.640625
+    },
+    {
+        "Id":  22056,
+        "ProcessName":  "powershell",
+        "Path":  "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+        "CPU":  19.375
+    },
+    {
+        "Id":  14888,
+        "ProcessName":  "PresentMonService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4500,
+        "ProcessName":  "QHActiveDefense",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  22364,
+        "ProcessName":  "QHSafeTray",
+        "Path":  null,
+        "CPU":  335.046875
+    },
+    {
+        "Id":  9744,
+        "ProcessName":  "QHWatchdog",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  280,
+        "ProcessName":  "Registry",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6032,
+        "ProcessName":  "ROGLiveService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5244,
+        "ProcessName":  "RstMwService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6000,
+        "ProcessName":  "RtkAudUService64",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  12936,
+        "ProcessName":  "RtkAudUService64",
+        "Path":  null,
+        "CPU":  2.734375
+    },
+    {
+        "Id":  21760,
+        "ProcessName":  "RtkAudUService64",
+        "Path":  "C:\\WINDOWS\\System32\\DriverStore\\FileRepository\\realtekservice.inf_amd64_5e142737be80cf43\\RtkAudUService64.exe",
+        "CPU":  4.96875
+    },
+    {
+        "Id":  12988,
+        "ProcessName":  "rundll32",
+        "Path":  "C:\\WINDOWS\\System32\\rundll32.exe",
+        "CPU":  0.03125
+    },
+    {
+        "Id":  7908,
+        "ProcessName":  "RuntimeBroker",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CPU":  0.28125
+    },
+    {
+        "Id":  13056,
+        "ProcessName":  "RuntimeBroker",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CPU":  0.296875
+    },
+    {
+        "Id":  15828,
+        "ProcessName":  "RuntimeBroker",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CPU":  0.296875
+    },
+    {
+        "Id":  16808,
+        "ProcessName":  "RuntimeBroker",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CPU":  12.5625
+    },
+    {
+        "Id":  18140,
+        "ProcessName":  "RuntimeBroker",
+        "Path":  "C:\\Windows\\System32\\RuntimeBroker.exe",
+        "CPU":  0.171875
+    },
+    {
+        "Id":  6108,
+        "ProcessName":  "SchedulerService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  28172,
+        "ProcessName":  "SDXHelper",
+        "Path":  "C:\\Program Files\\Microsoft Office\\Root\\Office16\\SDXHelper.exe",
+        "CPU":  23.421875
+    },
+    {
+        "Id":  16260,
+        "ProcessName":  "SearchHost",
+        "Path":  "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\SearchHost.exe",
+        "CPU":  11.703125
+    },
+    {
+        "Id":  10608,
+        "ProcessName":  "SearchIndexer",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  236,
+        "ProcessName":  "Secure System",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  22024,
+        "ProcessName":  "SecurityHealthService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  22012,
+        "ProcessName":  "SecurityHealthSystray",
+        "Path":  "C:\\Windows\\System32\\SecurityHealthSystray.exe",
+        "CPU":  0.046875
+    },
+    {
+        "Id":  1444,
+        "ProcessName":  "services",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  24480,
+        "ProcessName":  "ShellHost",
+        "Path":  "C:\\Windows\\System32\\ShellHost.exe",
+        "CPU":  0.3125
+    },
+    {
+        "Id":  11856,
+        "ProcessName":  "sihost",
+        "Path":  "C:\\WINDOWS\\system32\\sihost.exe",
+        "CPU":  31.546875
+    },
+    {
+        "Id":  800,
+        "ProcessName":  "smss",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4108,
+        "ProcessName":  "spoolsv",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  16408,
+        "ProcessName":  "StartMenuExperienceHost",
+        "Path":  "C:\\WINDOWS\\SystemApps\\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\\StartMenuExperienceHost.exe",
+        "CPU":  14.21875
+    },
+    {
+        "Id":  1012,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1512,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1552,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1660,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1724,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  0.09375
+    },
+    {
+        "Id":  1844,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1860,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1888,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2156,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2192,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2196,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2208,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2220,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2324,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2332,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2348,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2384,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2392,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2396,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2644,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2692,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2712,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2752,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  2832,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3360,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3372,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3516,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3624,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3632,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3684,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3692,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3704,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3856,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3908,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3916,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3924,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4180,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4220,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4232,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4244,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4492,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4560,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4732,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4748,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4884,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5192,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5212,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5276,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5288,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5336,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5440,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5808,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  5936,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6080,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6096,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6152,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6164,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  7172,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  8692,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\System32\\svchost.exe",
+        "CPU":  0.359375
+    },
+    {
+        "Id":  9048,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  10280,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  11284,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  11532,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  11800,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  11972,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  9.21875
+    },
+    {
+        "Id":  11988,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  0.28125
+    },
+    {
+        "Id":  12060,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  0.109375
+    },
+    {
+        "Id":  12140,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  31.796875
+    },
+    {
+        "Id":  12548,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  12824,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  13980,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  14608,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  1.6875
+    },
+    {
+        "Id":  15000,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  16300,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  16660,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  16948,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  0.953125
+    },
+    {
+        "Id":  17640,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  18332,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  19828,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  19952,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  20516,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  1.359375
+    },
+    {
+        "Id":  22108,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  22900,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  23428,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  24484,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  24760,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  25036,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  25208,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  25488,
+        "ProcessName":  "svchost",
+        "Path":  "C:\\WINDOWS\\system32\\svchost.exe",
+        "CPU":  0.796875
+    },
+    {
+        "Id":  25500,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  26676,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  27088,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  27404,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  27688,
+        "ProcessName":  "svchost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  4,
+        "ProcessName":  "System",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  26016,
+        "ProcessName":  "SystemSettings",
+        "Path":  "C:\\Windows\\ImmersiveControlPanel\\SystemSettings.exe",
+        "CPU":  4.609375
+    },
+    {
+        "Id":  3872,
+        "ProcessName":  "taskhostw",
+        "Path":  "C:\\WINDOWS\\system32\\taskhostw.exe",
+        "CPU":  2.53125
+    },
+    {
+        "Id":  20956,
+        "ProcessName":  "TextInputHost",
+        "Path":  "C:\\WINDOWS\\SystemApps\\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\\TextInputHost.exe",
+        "CPU":  16.328125
+    },
+    {
+        "Id":  17288,
+        "ProcessName":  "unsecapp",
+        "Path":  null,
+        "CPU":  0.03125
+    },
+    {
+        "Id":  26864,
+        "ProcessName":  "unsecapp",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  27312,
+        "ProcessName":  "UserOOBEBroker",
+        "Path":  "C:\\Windows\\System32\\oobe\\UserOOBEBroker.exe",
+        "CPU":  0.046875
+    },
+    {
+        "Id":  3640,
+        "ProcessName":  "WhatsApp.Root",
+        "Path":  "C:\\Program Files\\WindowsApps\\5319275A.WhatsAppDesktop_2.2635.100.0_x64__cv1g1gvanyjgm\\WhatsApp.Root.exe",
+        "CPU":  50.171875
+    },
+    {
+        "Id":  16564,
+        "ProcessName":  "WidgetBoard",
+        "Path":  "C:\\Program Files\\WindowsApps\\MicrosoftWindows.Client.WebExperience_526.21100.40.0_x64__cw5n1h2txyewy\\WidgetBoard.exe",
+        "CPU":  2.828125
+    },
+    {
+        "Id":  16540,
+        "ProcessName":  "WidgetService",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.WidgetsPlatformRuntime_1.6.19.0_x64__8wekyb3d8bbwe\\WidgetService\\WidgetService.exe",
+        "CPU":  6.234375
+    },
+    {
+        "Id":  23780,
+        "ProcessName":  "WindowsTerminal",
+        "Path":  "C:\\Program Files\\WindowsApps\\Microsoft.WindowsTerminal_1.24.11911.0_x64__8wekyb3d8bbwe\\WindowsTerminal.exe",
+        "CPU":  13.109375
+    },
+    {
+        "Id":  1364,
+        "ProcessName":  "wininit",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1472,
+        "ProcessName":  "winlogon",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  13020,
+        "ProcessName":  "wlanext",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  3416,
+        "ProcessName":  "WmiPrvSE",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  8520,
+        "ProcessName":  "WmiPrvSE",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  14556,
+        "ProcessName":  "WmiPrvSE",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6072,
+        "ProcessName":  "WMIRegistrationService",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  6136,
+        "ProcessName":  "wslservice",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1788,
+        "ProcessName":  "WUDFHost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  1948,
+        "ProcessName":  "WUDFHost",
+        "Path":  null,
+        "CPU":  null
+    },
+    {
+        "Id":  15044,
+        "ProcessName":  "WUDFHost",
+        "Path":  null,
+        "CPU":  null
+    }
+]
